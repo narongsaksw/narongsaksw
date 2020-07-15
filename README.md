@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hi I'm Narongsak Suwan. Welcome to my Github profile  👋
+
+- 💪 My Skills are ReactJS, NodeJS, MySQL, MongoDB
+- 🌱 I’m currently learning Frontend, Backend, DevOps & more
 
 <!--
 **sscarry2/sscarry2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
