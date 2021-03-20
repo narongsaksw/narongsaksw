@@ -1,6 +1,6 @@
 # Hi I'm Narongsak Suwan. Welcome to my Github profile  👋
 
-- 💪 My Skills are ReactJS, NodeJS, MySQL and MongoDB
+- 💪 My Skills are ReactJS, React Native, NodeJS, MySQL and MongoDB
 - 🌱 I’m currently learning Frontend, Backend, DevOps & more
 
 <!--
