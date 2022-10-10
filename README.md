@@ -1,7 +1,7 @@
 # Hi I'm Narongsak Suwan. Welcome to my Github profile  👋
 
 <!--
-**sscarry2/sscarry2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**narongsaksw/narongsaksw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -42,6 +42,6 @@ Here are some ideas to get you started:
 
 ## 📈 Github Stat
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sscarry2&theme=algolia)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=narongsaksw&theme=algolia)
 
-![Non github stats](https://github-readme-stats.vercel.app/api?username=sscarry2&show_icons=true&theme=algolia)
+![Non github stats](https://github-readme-stats.vercel.app/api?username=narongsaksw&show_icons=true&theme=algolia)
